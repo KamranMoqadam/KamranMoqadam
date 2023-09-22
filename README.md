@@ -1,3 +1,6 @@
+<div align="center">
+<img align='center' src='Data/Cover.png' width="100%" >
+</div>
 ### Hi there 👋
 
 <!--
