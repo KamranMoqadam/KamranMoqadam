@@ -1,10 +1,14 @@
 <div>
 <img  src='Data/CoverGitub.gif' alt="my gif">
 </div>
-<h1 style="text-align: center" >Hi i'm Kamran Moqadam &#128060; </h1>
+<div align="center">
+<h1>Hi i'm Kamran Moqadam &#128060; </h1>
+</div>
+
 <h2>About Me</h2>
 <p>I am a software developer with a strong background in Python and a passion for artificial intelligence and machine learning. My skill set includes expertise in a wide range of technologies and tools, including:
 </p>
+
 <h3>Programming Languages</h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,6 +53,7 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://shields.io/)
 
 <h2>Contact Me</h2>
+
 If you have any questions or would like to get in touch with me, feel free to reach out via email
 at [kamranmoqadam97@gmail.com](mailto:kamranmoqadam97@gmail.com).
 
@@ -70,7 +75,6 @@ at [kamranmoqadam97@gmail.com](mailto:kamranmoqadam97@gmail.com).
 <h3>My Personal Website</h3>
 
 [![My Personal Website](https://img.shields.io/badge/My%20Website-Visit%20Now-brightgreen?style=for-the-badge&logo=your-icon)](http://kamranmoqadam.com/)
-
 
 <h3>Music Streaming</h3>
 <p>Catch me on your favorite music streaming platform:</p>
