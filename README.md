@@ -1,5 +1,5 @@
 <div>
-<img  src='Data/Cover.gif' alt="my gif">
+<img  src='Data/CoverGitub.gif' alt="my gif">
 </div>
 <h1 style="text-align: center" >Hi i'm Kamran Moqadam &#128060; </h1>
 <h2>About Me</h2>
@@ -30,6 +30,7 @@
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 <h3>User Interface</h3>
+
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -67,6 +68,7 @@ at [kamranmoqadam97@gmail.com](mailto:kamranmoqadam97@gmail.com).
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/G4JDLHOWVZHNM1)
 
 <h3>My Personal Website</h3>
+
 [![My Personal Website](https://img.shields.io/badge/My%20Website-Visit%20Now-brightgreen?style=for-the-badge&logo=your-icon)](http://kamranmoqadam.com/)
 
 
