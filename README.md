@@ -92,6 +92,11 @@ at [kamranmoqadam97@gmail.com](mailto:kamranmoqadam97@gmail.com).
 - Master of Science in Information Technology - Artificial
   Intelligence, [Azad University West Tehran Branch](https://wtb.iau.ir/en)
 
+<h2>Licenses & certifications</h2>
+
+- Quera : [Advanced Python Programming And Object-Oriented Thinking Course](https://quera.org/certificate/PjzqOxKw/)
+- Quera : [Task-Oriented Course In Fundamentals Of Python Programming](https://quera.org/certificate/K0la1d1Y/)
+
 <h2>Interests</h2>
 <p>In addition to my professional pursuits, I have a diverse set of interests:</p>
 
