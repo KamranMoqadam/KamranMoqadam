@@ -20,7 +20,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FF0000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 <h3>Web Development</h3>
 
@@ -58,8 +57,7 @@
 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-00AA88?style=for-the-badge&logo=celery&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
-![RESTful API](https://img.shields.io/badge/RESTful%20API-00A0DF?style=for-the-badge)
+
 
 <h2>Contact Me</h2>
 
