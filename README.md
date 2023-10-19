@@ -6,10 +6,10 @@
 
 <div style="color: white;font-family: 'Poppins Medium'">
   <h1>Hi i'm , Kamran Moqadam &#128060; </h1>
-  <hr style="background: white;width: 90%">
+  <hr style="color:white;background-color:white;width: 90%">
 </div>
 
-<div style="background: #121212;width: 90%;">
+<div style="width: 90%;">
   <h2 style="text-transform: uppercase;letter-spacing: 4px;">🦸‍♂️ About Me</h2>
   <p align="justify" style="color: white;">
   I am a seasoned software developer with a strong passion for Python programming and a diverse skill set in various technology domains. With a solid educational background, including a master's degree in Information Technology and a bachelor's degree in Software Engineering, I have honed my expertise over the years. I've had the privilege of working in both corporate and academic settings, gaining experience as a web designer, software developer, and programming mentor.
@@ -20,7 +20,7 @@
   <br>
   As I look towards the future, I am excited to contribute to the evolving landscape of technology and continue pushing the boundaries of what is possible. Whether it's crafting elegant web solutions, mining valuable insights from data, or automating web interactions, I am dedicated to delivering innovative solutions and shaping the digital world.
   </p>
-  <hr style="background: white;width: 90%">
+  <hr style="color:white;background-color:white;width: 90%">
 </div>
 
 <div>
@@ -158,9 +158,9 @@
 
 </div>
 </div>
-<hr style="background: white;width: 90%">
+  <hr style="color:white;background-color:white;width: 90%">
 </div>
-<div style="background: #121212;width: 90%;">
+<div style="width: 90%;">
 
 <h2 style="text-transform: uppercase;letter-spacing: 4px;">📞 Contact Me</h2>
 <p align="justify" style="color: white;">
