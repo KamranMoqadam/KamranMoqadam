@@ -9,7 +9,7 @@
   <hr style="background: white;width: 90%">
 </div>
 
-<div style="width: 90%;">
+<div style="background: #121212;width: 90%;">
   <h2 style="text-transform: uppercase;letter-spacing: 4px;">🦸‍♂️ About Me</h2>
   <p align="justify" style="color: white;">
   I am a seasoned software developer with a strong passion for Python programming and a diverse skill set in various technology domains. With a solid educational background, including a master's degree in Information Technology and a bachelor's degree in Software Engineering, I have honed my expertise over the years. I've had the privilege of working in both corporate and academic settings, gaining experience as a web designer, software developer, and programming mentor.
@@ -160,7 +160,7 @@
 </div>
 <hr style="background: white;width: 90%">
 </div>
-<div style="width: 90%;">
+<div style="background: #121212;width: 90%;">
 
 <h2 style="text-transform: uppercase;letter-spacing: 4px;">📞 Contact Me</h2>
 <p align="justify" style="color: white;">
@@ -256,7 +256,7 @@ at <a href="mailto:kamranmoqadam97@gmail.com">kamranmoqadam97@gmail.com</a> .
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
 <h2>📊 GitHub Stats </h2>
-
+ 
 ![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamranMoqadam&show_icons=true&theme=algolia)
 <h2>📊 Top Langs </h2>
 
@@ -264,7 +264,7 @@ at <a href="mailto:kamranmoqadam97@gmail.com">kamranmoqadam97@gmail.com</a> .
 
 <h2 align='center'>📈 Activity Graph </h2>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KamranMoqadam&theme=react&area=true&hide_border=true#gh-light-mode-only" width="80%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KamranMoqadam&theme=react&area=true&hide_border=true#gh-light-mode-only" width="80%" alt="">
 </div>
 
 <h2>🏆 GitHub Trophies</h2>
