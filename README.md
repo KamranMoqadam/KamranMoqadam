@@ -1,33 +1,29 @@
 <div align="center" style="color: white;background: #121212;font-family: 'Poppins Light';">
 
 <div align="center">
-<img  src='Data/CoverGithub.gif' alt="my gif">
+  <img  src='Data/CoverGithub.gif' alt="my gif">
 </div>
 
 <div style="color: white;font-family: 'Poppins Medium'">
-
-<h1>Hi i'm , Kamran Moqadam &#128060; </h1>
-
+  <h1>Hi i'm , Kamran Moqadam &#128060; </h1>
+  <hr style="background: white;width: 90%">
 </div>
-
-<hr style="background: white;width: 90%">
 
 <div style="width: 90%;">
-
-<h2 style="text-transform: uppercase;letter-spacing: 4px;">🦸‍♂️ About Me</h2>
-
-<p align="justify" style="color: white;">
-I am a seasoned software developer with a strong passion for Python programming and a diverse skill set in various technology domains. With a solid educational background, including a master's degree in Information Technology and a bachelor's degree in Software Engineering, I have honed my expertise over the years. I've had the privilege of working in both corporate and academic settings, gaining experience as a web designer, software developer, and programming mentor.
-<br>
-My technical proficiencies encompass a wide range of tools and languages, with a primary focus on Python. I have experience working with popular web frameworks like Django, Flask, and FastAPI, which has allowed me to create robust web applications. In addition, I'm well-versed in managing databases, specializing in PostgreSQL , Redis and MongoDB. I also excel in front-end development, crafting visually appealing websites using HTML, CSS, and the Tailwind CSS framework.
-<br>
-Furthermore, I'm well-versed in web scraping and automated testing, utilizing tools such as Selenium to interact with and analyze web content. Beyond my development skills, I'm proficient in containerization with Docker, message queuing with Celery and RabbitMQ, and have experience with the Linux operating system. My versatile background makes me a valuable asset in software development and data analysis, with a commitment to continually expanding my skill set.
-<br>
-As I look towards the future, I am excited to contribute to the evolving landscape of technology and continue pushing the boundaries of what is possible. Whether it's crafting elegant web solutions, mining valuable insights from data, or automating web interactions, I am dedicated to delivering innovative solutions and shaping the digital world.
-</p>
+  <h2 style="text-transform: uppercase;letter-spacing: 4px;">🦸‍♂️ About Me</h2>
+  <p align="justify" style="color: white;">
+  I am a seasoned software developer with a strong passion for Python programming and a diverse skill set in various technology domains. With a solid educational background, including a master's degree in Information Technology and a bachelor's degree in Software Engineering, I have honed my expertise over the years. I've had the privilege of working in both corporate and academic settings, gaining experience as a web designer, software developer, and programming mentor.
+  <br>
+  My technical proficiencies encompass a wide range of tools and languages, with a primary focus on Python. I have experience working with popular web frameworks like Django, Flask, and FastAPI, which has allowed me to create robust web applications. In addition, I'm well-versed in managing databases, specializing in PostgreSQL , Redis and MongoDB. I also excel in front-end development, crafting visually appealing websites using HTML, CSS, and the Tailwind CSS framework.
+  <br>
+  Furthermore, I'm well-versed in web scraping and automated testing, utilizing tools such as Selenium to interact with and analyze web content. Beyond my development skills, I'm proficient in containerization with Docker, message queuing with Celery and RabbitMQ, and have experience with the Linux operating system. My versatile background makes me a valuable asset in software development and data analysis, with a commitment to continually expanding my skill set.
+  <br>
+  As I look towards the future, I am excited to contribute to the evolving landscape of technology and continue pushing the boundaries of what is possible. Whether it's crafting elegant web solutions, mining valuable insights from data, or automating web interactions, I am dedicated to delivering innovative solutions and shaping the digital world.
+  </p>
+  <hr style="background: white;width: 90%">
 </div>
 
-<hr style="background: white;width: 90%">
+<div>
 
 <h2 style="text-transform: uppercase;letter-spacing: 4px;">🛠️ Skills</h2>
 
@@ -64,6 +60,7 @@ As I look towards the future, I am excited to contribute to the evolving landsca
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 
 <h3 style="text-transform: uppercase;letter-spacing: 2px;">🖥️ Data Science</h3>
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -103,9 +100,9 @@ As I look towards the future, I am excited to contribute to the evolving landsca
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 </div>
-<div style="text-align: left;width: 48%">
+  <div style="text-align: left;width: 48%">
 
-<h3 style="text-transform: uppercase;letter-spacing: 2px;">📲 Virtualization and Containers</h3>
+  <h3 style="text-transform: uppercase;letter-spacing: 2px;">📲 Virtualization and Containers</h3>
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://shields.io/)
 
@@ -121,10 +118,12 @@ As I look towards the future, I am excited to contribute to the evolving landsca
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
 <h3 style="text-transform: uppercase;letter-spacing: 2px;">🧪 API Testing</h3>
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
 <h3 style="text-transform: uppercase;letter-spacing: 2px;">🧾Documentation</h3>
+
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 <h3 style="text-transform: uppercase;letter-spacing: 2px;">💻 IDEs/Editors</h3>
@@ -159,10 +158,8 @@ As I look towards the future, I am excited to contribute to the evolving landsca
 
 </div>
 </div>
-
-
 <hr style="background: white;width: 90%">
-
+</div>
 <div style="width: 90%;">
 
 <h2 style="text-transform: uppercase;letter-spacing: 4px;">📞 Contact Me</h2>
