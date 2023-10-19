@@ -256,8 +256,10 @@ at <a href="mailto:kamranmoqadam97@gmail.com">kamranmoqadam97@gmail.com</a> .
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
 <h2>📊 GitHub Stats </h2>
+
 ![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamranMoqadam&show_icons=true&theme=algolia)
 <h2>📊 Top Langs </h2>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamranMoqadam&layout=compact&theme=algolia)
 
 <h2 align='center'>📈 Activity Graph </h2>
@@ -266,6 +268,7 @@ at <a href="mailto:kamranmoqadam97@gmail.com">kamranmoqadam97@gmail.com</a> .
 </div>
 
 <h2>🏆 GitHub Trophies</h2>
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KamranMoqadam&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 
