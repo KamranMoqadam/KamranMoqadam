@@ -20,16 +20,16 @@
   <br>
   As I look towards the future, I am excited to contribute to the evolving landscape of technology and continue pushing the boundaries of what is possible. Whether it's crafting elegant web solutions, mining valuable insights from data, or automating web interactions, I am dedicated to delivering innovative solutions and shaping the digital world.
   </p>
-  <hr style="color:white;background-color:white;width: 90%">
-</div>
 
+</div>
+  <hr style="color:white;background-color:white;width: 90%">
 <div>
 
 <h2 style="text-transform: uppercase;letter-spacing: 4px;">🛠️ Skills</h2>
 
-<div align="center" style="display: flex;flex-direction: row; width: 90%;">
+<div align="center" style="display: flex;flex-direction: row; width: 90%;justify-content: space-between;">
 
-<div style="text-align: left;width: 48%">
+<div style="text-align: left;width: 49%">
 
 <h3 style="text-transform: uppercase;letter-spacing: 2px;">📋 Programming Languages</h3>
 
@@ -46,7 +46,6 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
 
 <h3 style="text-transform: uppercase;letter-spacing: 2px;">📚 Web Development</h3>
 
@@ -100,9 +99,9 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 </div>
-  <div style="text-align: left;width: 48%">
+  <div style="text-align: left;width: 49%">
 
-  <h3 style="text-transform: uppercase;letter-spacing: 2px;">📲 Virtualization and Containers</h3>
+<h3 style="text-transform: uppercase;letter-spacing: 2px;">📲 Virtualization and Containers</h3>
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://shields.io/)
 
@@ -158,8 +157,9 @@
 
 </div>
 </div>
-  <hr style="color:white;background-color:white;width: 90%">
+
 </div>
+  <hr style="color:white;background-color:white;width: 90%">
 <div style="width: 90%;">
 
 <h2 style="text-transform: uppercase;letter-spacing: 4px;">📞 Contact Me</h2>
@@ -167,10 +167,11 @@
 If you have any questions or would like to get in touch with me, feel free to reach out via email
 at <a href="mailto:kamranmoqadam97@gmail.com">kamranmoqadam97@gmail.com</a> .
 </p>
+<div align="center" style="display: flex;flex-direction: row; width: 90%;justify-content: space-between;">
 
-
-<h2>💬 Social Links</h2>
-<p>Connect with me on social media and messaging platforms:</p>
+<div style="text-align: left;width: 49%">
+<h3 style="text-transform: uppercase;letter-spacing: 2px;">💬 Social Links</h3>
+<p style="color: white;">Connect with me on social media and messaging platforms:</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamran-moqadam/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KamranMoqadam)
@@ -189,28 +190,28 @@ at <a href="mailto:kamranmoqadam97@gmail.com">kamranmoqadam97@gmail.com</a> .
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-
-
-<h3> Messaging Apps </h3>
-<p>You can also find me on messaging apps:</p>
+<h3 style="text-transform: uppercase;letter-spacing: 2px;"> Messaging Apps </h3>
+<p style="color: white;">You can also find me on messaging apps:</p>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kamranmoqadam)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/G4JDLHOWVZHNM1)
 
-<h3>My Personal Website</h3>
+<h3 style="text-transform: uppercase;letter-spacing: 2px;">My Personal Website</h3>
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://kamranmoqadam.com/)
 
-<h3>🎶 Music Streaming</h3>
-<p >Catch me on your favorite music streaming platform:</p>
+</div>
+<div style="text-align: left;width: 49%">
+<h3 style="text-transform: uppercase;letter-spacing: 2px;">🎶 Music Streaming</h3>
+<p style="color: white;">Catch me on your favorite music streaming platform:</p>
 
 ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31becopgf53r5sehnkeyispma5ya)
 ![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
-<h3>🎮 Gaming</h3>
-<p>Join me in the gaming world:</p>
+<h3 style="text-transform: uppercase;letter-spacing: 2px;">🎮 Gaming</h3>
+<p style="color: white;">Join me in the gaming world:</p>
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kamranmoqadam)
 ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
@@ -221,27 +222,45 @@ at <a href="mailto:kamranmoqadam97@gmail.com">kamranmoqadam97@gmail.com</a> .
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 
-
-<h3>📺 Streaming</h3>
+<h3 style="text-transform: uppercase;letter-spacing: 2px;">📺 Streaming</h3>
 
 ![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=Apple%20TV&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
 
+</div></div></div>
+<hr style="color:white;background-color:white;width: 90%">
+<h2 style="text-transform: uppercase;letter-spacing: 4px;">Education</h2>
+<div align="center" style="display: flex;flex-direction: row; width: 90%;justify-content: space-between;">
 
-<h2>🎓 Education Me</h2>
+<div style="text-align: left;width: 49%">
+<h3 style="text-transform: uppercase;letter-spacing: 2px;">🎓 Education Me</h3>
+<ul style="color: white;list-style-type: '👨‍🎓 ';">
 
-- Bachelor of Science in Software Engineering, [Azad University Tehran Central Branch](https://ctb.iau.ir/en)
-- Master of Science in Information Technology - Artificial
-  Intelligence, [Azad University West Tehran Branch](https://wtb.iau.ir/en)
+<li><span>Bachelor of Science in Software Engineering ,  <a href="https://ctb.iau.ir/en">
+Azad University Tehran Central Branch
+</a></span></li>
+<li><span>Master of Science in Information Technology - Artificial
+  Intelligence , <a href="https://wtb.iau.ir/en">
+Azad University West Tehran Branch
+</a></span></li>
 
-<h2>📑 Licenses & certifications</h2>
+</ul>
 
-- Quera : [Advanced Python Programming And Object-Oriented Thinking Course](https://quera.org/certificate/PjzqOxKw/)
-- Quera : [Task-Oriented Course In Fundamentals Of Python Programming](https://quera.org/certificate/K0la1d1Y/)
+<h3 style="text-transform: uppercase;letter-spacing: 2px;">📑 Licenses & certifications</h2>
+<ul style="color: white;list-style-type: '🎯 ';">
+<li><span>Quera : <a href="https://quera.org/certificate/PjzqOxKw/">
+Advanced Python Programming And Object-Oriented Thinking Course
+</a></span></li>
+<li><span>Quera : <a href="https://quera.org/certificate/K0la1d1Y/" style="">
+Task-Oriented Course In Fundamentals Of Python Programming
+</a></span></li>
 
-<h2>Interests</h2>
-<p>In addition to my professional pursuits, I have a diverse set of interests:</p>
+</ul>
+</div>
+<div style="text-align: left;width: 49%">
+<h3 style="text-transform: uppercase;letter-spacing: 2px;">Interests</h3>
+<p style="color: white;">In addition to my professional pursuits, I have a diverse set of interests:</p>
 
 
 ![Sports](https://img.shields.io/badge/Sports-%F0%9F%8F%80-brightgreen)
@@ -251,27 +270,40 @@ at <a href="mailto:kamranmoqadam97@gmail.com">kamranmoqadam97@gmail.com</a> .
 ![Cooking](https://img.shields.io/badge/Cooking-%F0%9F%8D%B3-red)
 ![Movies](https://img.shields.io/badge/Watching%20Movies-%F0%9F%8E%AC-purple)
 
-<h2>💼 Work/Jobs</h2>
+<h3 style="text-transform: uppercase;letter-spacing: 2px;">💼 Work/Jobs</h2>
 
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
-<h2>📊 GitHub Stats </h2>
- 
-![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamranMoqadam&show_icons=true&theme=algolia)
-<h2>📊 Top Langs </h2>
+</div></div>
+<hr style="color:white;background-color:white;width: 90%">
+<h2 style="text-transform: uppercase;letter-spacing: 4px;">GitHub Chart</h2>
+<div align="center" style="display: flex;flex-direction: row; width: 90%;justify-content: space-between;">
+<div style="text-align: left;width: 59%">
+<h3 style="text-transform: uppercase;letter-spacing: 4px;">📊 GitHub Stats </h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamranMoqadam&layout=compact&theme=algolia)
+![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamranMoqadam&show_icons=true&theme=github_dark&hide_border=true&bg_color=121212)
 
-<h2 align='center'>📈 Activity Graph </h2>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KamranMoqadam&theme=react&area=true&hide_border=true#gh-light-mode-only" width="80%" alt="">
 </div>
 
-<h2>🏆 GitHub Trophies</h2>
+<div style="text-align: left;width: 39%">
+<h3 style="text-transform: uppercase;letter-spacing: 4px;">🪐 Top Langs </h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamranMoqadam&layout=compact&theme=github_dark&hide_border=true&bg_color=121212)
+
+</div>
+</div>
+<div style="width: 90%;">
+<h3 style="text-transform: uppercase;letter-spacing: 4px;">📈 Activity Graph </h3>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KamranMoqadam&theme=react-dark&area=true&hide_border=true&bg_color=121212)
+
+</div>
+
+<div style="width: 90%;">
+<h3 style="text-transform: uppercase;letter-spacing: 4px;">🏆 GitHub Trophies</h3>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KamranMoqadam&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-
 </div>
-
+<br><br><br>
 </div>
