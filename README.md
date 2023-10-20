@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
 <div align="center" style="color: white;background: #121212;font-family: 'Poppins Light';">
 
 <div align="center">
@@ -307,3 +313,5 @@ Task-Oriented Course In Fundamentals Of Python Programming
 </div>
 <br><br><br>
 </div>
+</body>
+</html>
